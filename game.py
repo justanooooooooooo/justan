@@ -3,7 +3,7 @@ import streamlit.components.v1 as components
 
 st.set_page_config(page_title="Green Dot Hunter", layout="wide")
 
-st.title("🟢 Green Dot Hunter 遊戲 (加速版)")
+st.title("🟢 Green Dot Hunter by Justan")
 
 game_html = """
 <!DOCTYPE html>
